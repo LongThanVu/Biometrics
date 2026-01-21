@@ -78,8 +78,8 @@ Triển khai trên 3 datasets sau:
 
 Môi trường chạy code: Kaggle
 
-- [Đường dẫn chạy trainArcFace.py](https://www.kaggle.com/code/vitliinh/train-arcface)
-- [Đường dẫn chạy trainArcFaceWithNewPipeLine.py](https://www.kaggle.com/code/khangphandik/train-arcface)
+- [Đường dẫn chạy trainArcFace.ipynb](https://www.kaggle.com/code/vitliinh/train-arcface)
+- [Đường dẫn chạy trainArcFaceWithNewPipeLine.ipynb](https://www.kaggle.com/code/khangphandik/train-arcface)
 
 <h1 id="v" style="font-weight: bold">5. Tham khảo</h1> 
 
