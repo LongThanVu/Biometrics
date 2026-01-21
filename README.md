@@ -33,18 +33,23 @@ Trình bày code triển khai các phương pháp trong nhận diện palmprint:
 ```python
 ├── codingBasedCode/ # Phương pháp coding-based
 │   ├── funcs.py # Các hàm triển khai phương pháp coding-based
+│   ├── codingbased-approaches.ipynb # Notebook chứa code.
 
 ├── globalStatisticalBasedCode/ # Phương pháp global statistical
 │   ├── funcs.py # Các hàm triển khai phương pháp global statistical
+│   ├── globalstatisticalbased-approaches.ipynb # Notebook chứa code.
 
 ├── linebasedApproachesCode/ # Phương pháp line-based
 │   ├── funcs.py # Các hàm triển khai phương pháp line-based
+│   ├── linebased-approaches.ipynb # Notebook chứa code.
 
 ├── localStatisticBasedCode/ # Phương pháp local statistical
 │   ├── funcs.py # Các hàm triển khai phương pháp local statistical
+│   ├── localstatisticbased-approaches.ipynb # Notebook chứa code.
 
 ├── subspaceBasedCode/ # Phương pháp subspace-based
 │   ├── funcs.py # Các hàm triển khai phương pháp subspace-based
+│   ├── subspace-based-approaches.ipynb # Notebook chứa code.
 
 ├── trainArcFaceCode/ # Phương pháp tiên tiến
 │   ├── trainArcFace.ipynb # Notebook chứa code train mô hình nhận diện theo thông số tác giả.
